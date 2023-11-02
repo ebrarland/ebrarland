@@ -1,7 +1,5 @@
 <img align="centr" src="https://media.discordapp.net/attachments/745937151094423642/1169711751349162104/1698951355410.png">
 
----
-
 <p align="center">
   <samp>
     <a href="https://github.com/ebrarland">about me</a> .
