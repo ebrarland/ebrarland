@@ -7,8 +7,6 @@
   </samp>
 </p>
 
----
-
 <p align="center">
 ceng student from izmir, student at ege university
 </p>
