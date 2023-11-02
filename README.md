@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="centr" src="https://media.discordapp.net/attachments/745937151094423642/1169711751349162104/1698951355410.png">
 
-<!--
-**ebrarland/ebrarland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>
+    <a href="https://github.com/ebrarland">about me</a> .
+    <a href="https://github.com/sponsors/ebrarland">sponsors</a> .
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+ceng student from izmir, student at ege university
+</p>
