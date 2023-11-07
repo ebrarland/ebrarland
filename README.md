@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     <a href="https://github.com/ebrarland">about me</a> .
-    <a href="https://github.com/sponsors/ebrarland">sponsors</a> .
+    <a href="https://github.com/sponsors/ebrarland">sponsors</a>
   </samp>
 </p>
 
