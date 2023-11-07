@@ -8,5 +8,9 @@
 </p>
 
 <p align="center">
-ceng student from izmir, student at ege university
+ceng student from izmir, student @ ege university
+</p>
+
+<p align="center">
+team lead @ hype35
 </p>
