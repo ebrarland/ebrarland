@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-ceng student from izmir, student @ ege university
+ce student from izmir, student @ ege university
 </p>
 
 <p align="center">
-team lead @ hype35
+team lead at hype35 & abimoive
 </p>
